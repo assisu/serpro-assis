@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Revisao {
 
     public static void main (String[] args){
-        System.out.println("Olá mundo 5");
+        System.out.println("Olá mundo novo");
 
         Scanner leitor = new Scanner(System.in);
 	   System.out.println("Ol� Git 4");
